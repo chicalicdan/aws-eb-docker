@@ -1,5 +1,7 @@
 # Deploying a Docker Container to AWS with Elastic Beanstalk
 
+![](./img.png)
+
 Prerequisites:
 - Create an AWS account. AWS offers a free tier with access to a lot of cool services such as Amazon EC2 and S3.
 - Install the Elastic Beanstalk (EB) command line tool [`awsebcli`](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html)
